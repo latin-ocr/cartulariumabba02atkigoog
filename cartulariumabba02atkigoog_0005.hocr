@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cartulariumabba02atkigoog_0005.png"; bbox 0 0 3254 5140; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1153 2322 1969 2404">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1153 2322 1969 2404">
+     <span class='ocr_line' id='line_1_1' title="bbox 1153 2322 1969 2404; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 1153 2322 1969 2404; x_wconf 84' lang='lat' dir='ltr'><strong>PUBLIOATIONS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1458 2545 1660 2583">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1458 2545 1660 2583">
+     <span class='ocr_line' id='line_1_2' title="bbox 1458 2545 1660 2583; baseline -0.005 0"><span class='ocrx_word' id='word_1_2' title='bbox 1458 2545 1525 2583; x_wconf 78' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1548 2545 1660 2583; x_wconf 72' lang='lat' dir='ltr'><strong>THE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 878 2723 2252 2823">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 878 2723 2252 2823">
+     <span class='ocr_line' id='line_1_3' title="bbox 878 2723 2252 2823; baseline 0.001 -3"><span class='ocrx_word' id='word_1_4' title='bbox 878 2723 1517 2822; x_wconf 81' lang='lat' dir='ltr'><strong>SURTEES</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1623 2724 2252 2823; x_wconf 79' lang='lat' dir='ltr'><strong>SOOIETY.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1300 3043 1821 3108">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1300 3043 1821 3108">
+     <span class='ocr_line' id='line_1_4' title="bbox 1300 3043 1821 3108; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 1300 3043 1489 3108; x_wconf 90' lang='lat' dir='ltr'>VOL.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1545 3044 1821 3108; x_wconf 91' lang='lat' dir='ltr'>LXXII.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
